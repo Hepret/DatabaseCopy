@@ -1,0 +1,12 @@
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\bin\Debug\net5.0\DatabaseCopying.deps.json
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\bin\Debug\net5.0\DatabaseCopying.dll
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\bin\Debug\net5.0\ref\DatabaseCopying.dll
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\bin\Debug\net5.0\DatabaseCopying.pdb
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.csproj.AssemblyReference.cache
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.AssemblyInfoInputs.cache
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.AssemblyInfo.cs
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.csproj.CoreCompileInputs.cache
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.dll
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\ref\DatabaseCopying.dll
+C:\Users\Hepret\source\repos\databaseFinal\DatabaseCopying\DatabaseCopying\obj\Debug\net5.0\DatabaseCopying.pdb

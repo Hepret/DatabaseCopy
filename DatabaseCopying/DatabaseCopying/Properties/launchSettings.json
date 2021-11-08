@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DatabaseCopying": {
+      "commandName": "Project"
+    },
+    "Program": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Hepret\\source\\repos\\databaseFinal\\DatabaseCopying\\Program\\bin\\Debug\\net5.0\\Program.exe",
+      "workingDirectory": "C:\\Users\\Hepret\\source\\repos\\databaseFinal"
+    }
+  }
+}
